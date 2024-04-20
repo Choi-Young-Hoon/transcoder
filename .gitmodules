@@ -1,0 +1,3 @@
+[submodule "thirdparty/ffmpegpp"]
+	path = thirdparty/ffmpegpp
+	url = https://github.com/Choi-Young-Hoon/ffmpegpp
